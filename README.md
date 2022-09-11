@@ -13,4 +13,4 @@ Para realizar essa programação, eu ainda preciso conseguir o motor e sensor, p
 E o passo final é aprender a fazer esse tipo de programação.
 ![estrobo 1 Glauce](https://user-images.githubusercontent.com/113309183/189548295-5ada38f5-3aa9-46e6-a276-7b91f543f037.jpg)
 
-Idealizado por Glauce Castor de Medeiros
+Idealizado por Glauce Castor de Medeiros - Grauça.Art - Instagram @grauca.art
